@@ -1,0 +1,4 @@
+[MASTER] 16:25:32.485 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.LinkedList<E> : Type points to itself
+[MASTER] 16:26:09.212 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for org.apache.commons.text.similarity.SimilarityInput<E> : Type points to itself
+[MASTER] 16:26:13.294 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.util.function.Function<T, R> : Type points to itself
+[MASTER] 16:26:26.684 [pool-2-thread-1] ERROR TestCluster - Failed to check cache for java.time.temporal.TemporalQuery<R> : Type points to itself
